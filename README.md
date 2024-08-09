@@ -86,4 +86,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Feel free to explore, modify, and enjoy this 2D Unity game. If you have any questions or feedback, please open an issue or reach out to the project maintainers.
 
 Happy gaming!
-```
