@@ -56,7 +56,7 @@ To get started with the 2D Unity Game, follow these steps:
 Here are some screenshots of the game:
 
 - *Screenshot 1:*
-  ![Screenshot 1](https://github.com/Noel9907/frog_game1/image/Screenshot1)
+  ![Screenshot 1](https://github.com/Noel9907/frog_game1/blob/master/image/Screenshot1.png)
 
 
 ## Contributing
