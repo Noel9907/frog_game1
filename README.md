@@ -7,6 +7,7 @@ Welcome to the 2D Unity Game repository! This project is a classic 2D platformer
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -49,6 +50,14 @@ To get started with the 2D Unity Game, follow these steps:
 - *Configuration:*
 
   Configuration options can be found in the Assets/Resources/Config folder. Modify settings as needed.
+
+## Screenshots
+
+Here are some screenshots of the game:
+
+- *Screenshot 1:*
+  ![Screenshot 1](image/Screenshot 2024-08-09 220924)
+
 
 ## Contributing
 
