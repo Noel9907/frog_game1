@@ -56,7 +56,7 @@ To get started with the 2D Unity Game, follow these steps:
 Here are some screenshots of the game:
 
 - *Screenshot 1:*
-  ![Screenshot 1]((https://github.com/Noel9907/image/Screenshot 2024-08-09 220924)
+  ![Screenshot 1]((https://github.com/Noel9907/image/Screenshot 2024-08-09 220924.png)
 
 
 ## Contributing
